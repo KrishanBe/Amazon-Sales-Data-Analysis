@@ -2,7 +2,7 @@
 
 This project aims to analyze a dataset of Amazon products to understand customer preferences, identify purchasing patterns, and develop a recommendation system. The dataset includes product details like name, category, price, rating, and reviews.
 
-**Methodology:
+**Methodology:**
 
 Data Collection: Collected a dataset of over 1,000 Amazon products from Kaggle.
 Data Preparation: Cleaned and preprocessed the data, handling missing values and converting data types.
@@ -12,7 +12,7 @@ Examined customer ratings, discovering a majority of reviews falling in the 3-4 
 Analyzed reviews using word clouds to understand common themes and sentiments.
 Identified correlations between rating, rating count, discounted price, and weighted rating.
 
-***Data Visualization:**
+**Data Visualization:**
 
 Used bar plots, histograms, and word clouds to visualize data findings.
 Created correlation tables to understand relationships between variables.
